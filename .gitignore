@@ -1,0 +1,16 @@
+*.d
+*.so
+*.pcm
+*.pyc
+*.fits
+*.root
+*.gz
+*.pdf
+*.png
+*.yml
+/data/
+/log/
+/res/
+/__pycache__/
+/.ipynb_checkpoints/
+.DS_Store

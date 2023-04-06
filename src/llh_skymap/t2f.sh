@@ -1,0 +1,1 @@
+python txt2fits.py -n siglist_no_fiffuse.txt -o no_diffuse
